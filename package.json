@@ -1,0 +1,19 @@
+{
+  "name": "uts-wse-230104040124",
+  "version": "1.0.0",
+  "description": "UTS Web Service Engineering - Employees RESTful API",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "M. Delfian Tirta Nugraha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
